@@ -1,0 +1,7 @@
+authorization header
+key			value
+x-access-token	token
+
+
+documentation:
+https://documenter.getpostman.com/view/10523108/2s93ecxWWk
